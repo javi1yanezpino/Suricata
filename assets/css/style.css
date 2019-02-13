@@ -1,0 +1,38 @@
+
+body{
+  background-color: #fff;
+  font-family: Open Sans;
+}
+
+.navbar{
+  background-color: #e83e8c;
+  font-weight: 400;
+}
+
+.logo{
+  height: 53px;
+}
+.Productos{
+  font-weight: 700;
+}
+
+.icons-section{
+  background-color: #17a2b8;
+}
+
+.card{
+ background-color: #fff;
+}
+
+.tarjetas{
+    display: inline;
+}
+
+.logo-footer{
+  height: 100.45px;
+
+}
+
+.img{
+  height: 170px;
+}
